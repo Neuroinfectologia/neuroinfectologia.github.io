@@ -1,28 +1,43 @@
-LANI — site institucional
-==========================
+# LANI — Liga Acadêmica de Neuroinfectologia
 
-Arquivos
-- index.html: site completo (HTML, CSS e JavaScript).
-- assets/logo-lani.jpeg: logo oficial fornecida pela usuária; mantenha esta pasta junto do index.html.
+Site oficial da Liga Acadêmica de Neuroinfectologia (LANI), vinculada à Universidade Christus.
 
-Como visualizar
-1. Extraia o ZIP.
-2. Abra index.html no navegador.
+## Sobre o projeto
 
-Como publicar gratuitamente com GitHub Pages
-1. Crie uma conta em https://github.com/ (se ainda não tiver).
-2. Crie um repositório público, por exemplo: site-lani.
-3. Envie o arquivo index.html para a raiz do repositório.
-4. No repositório, acesse Settings > Pages.
-5. Em Build and deployment, selecione Deploy from a branch; escolha a branch main e a pasta /(root), depois Save.
-6. Aguarde a publicação. O endereço costuma ser https://SEU-USUARIO.github.io/site-lani/
+O site apresenta a LANI, sua identidade visual e sua proposta de ampliar o olhar médico para as neuroinfecções, com foco nas infecções do Sistema Nervoso Central (SNC).
 
-Antes de publicar
-- Troque o link genérico do Instagram pelo perfil oficial da LANI.
-- Adicione o e-mail oficial no link mailto.
-- Confirme a forma oficial de escrever o nome da Universidade Christus e eventuais regras de uso de marca/logotipo.
-- Preencha os nomes da diretoria, orientador, projetos e processos seletivos somente após validar as informações.
-- A logo oficial fornecida foi integrada ao cabeçalho e ao rodapé. Mantenha o arquivo assets/logo-lani.jpeg no mesmo projeto para que ela apareça.
+## Identidade visual
 
-Personalização
-Edite index.html em um editor de texto ou no VS Code. Cores principais ficam no início do bloco <style>, nas variáveis CSS --navy, --teal e --teal2.
+- Logo da Liga Acadêmica de Neuroinfectologia.
+- Logo da Universidade Christus.
+- Layout moderno em azul-marinho e ciano.
+- Ilustração 3D do cérebro relacionada à neuroinfectologia.
+- Design adaptável a computadores e dispositivos móveis.
+
+## Tecnologias
+
+- HTML5
+- CSS3
+- JavaScript (quando aplicável)
+
+## Publicação
+
+O site é hospedado pelo GitHub Pages:
+
+https://neuroinfectologia.github.io/
+
+## Como atualizar o site
+
+1. Acesse o repositório do projeto no GitHub.
+2. Edite ou substitua o arquivo `index.html`.
+3. Envie os arquivos de imagem necessários, caso não estejam incorporados ao HTML.
+4. Salve as alterações usando **Commit changes**.
+5. Aguarde o GitHub Pages publicar a nova versão.
+
+## Objetivo
+
+Ampliar o olhar médico para as neuroinfecções e divulgar as atividades acadêmicas da LANI.
+
+---
+
+© Liga Acadêmica de Neuroinfectologia — Universidade Christus.
